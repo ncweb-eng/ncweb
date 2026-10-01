@@ -1,0 +1,11 @@
+ncweb-site/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── img/
+    ├── logo.png          ← seu logo NCWEB (com fundo transparente de preferência)
+    ├── belem.jpg         ← foto de Belém (ponte/cidade à noite)
+    ├── mapa-para.png     ← mapa vetorial do Pará
+    └── cobertura.png     ← a imagem completa que você me enviou
